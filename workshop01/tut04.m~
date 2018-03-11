@@ -1,0 +1,18 @@
+img = imread('img0401.jpg');
+labelled = imread('img0402.bmp');
+index = labelled(:,:,1) == 255 & labelled(:,:,3) == 255;
+r = img(:,:,1);
+g = img(:,:,2);
+b = img(:,:,3);
+boxplot([r(index), g(index), b(index)]);
+title('RGB boxplots');
+
+boundary = [0.25, 0.7];
+disp('RED');
+bounds = quantile(r(index), boundary);
+disp([1.5*(bounds(2) )
+disp('GREEN');
+bounds = quantile(g(index), boundary);
+disp('BLUE');
+bounds = quantile(b(index), boundary);
+
