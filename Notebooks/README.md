@@ -6,6 +6,8 @@ This directory will have some helpful jupyter notebooks. Jupyter is a very commo
 * virtualenv (optional)
     you can make custom environments to develop in
     there's no need to install all python packages to your system directories (some packages might be dodgy)
+## List of Files
+* [Naive Bayes Classifer](Naive Bayes Classifier.ipynb)
 
 ## Resources
 * https://docs.scipy.org/doc/numpy/reference/
