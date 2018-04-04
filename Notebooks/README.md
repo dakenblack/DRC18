@@ -1,5 +1,6 @@
 # Instructions
-
+# README
+This directory will have some helpful jupyter notebooks. Jupyter is a very common data science tool used by a lot of people. It's web based so there's not much to install. 
 ## Prereq
 * python3
 * all python packages from requirements.txt
@@ -11,6 +12,7 @@
 * https://docs.scipy.org/doc/numpy/reference/
 * https://matplotlib.org/api/pyplot_api.html
 * https://matplotlib.org/users/image_tutorial.html
+* https://jupyter.org/
 * Google *No Seriously*
 * Some specific articles
     * https://docs.scipy.org/doc/numpy/reference/generated/numpy.reshape.html
