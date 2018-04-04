@@ -1,4 +1,3 @@
-# Instructions
 # README
 This directory will have some helpful jupyter notebooks. Jupyter is a very common data science tool used by a lot of people. It's web based so there's not much to install. 
 ## Prereq
