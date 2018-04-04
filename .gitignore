@@ -1,2 +1,4 @@
 *.swp
 *.m~
+ENV
+.ipynb_checkpoints/*
